@@ -30,3 +30,9 @@ Transient simulations before and after layout confirmed correct inverter functio
 - DRC & LVS Verification
 - Layout versus Schematic Matching
 - Pre-layout and Post-layout Simulation
+
+  ## Design file
+  https://drive.google.com/file/d/1KIhSRVtV3zADQlDymPpQsMxaROmKVXk5/view?usp=drivesdk
+
+
+  
